@@ -1,4 +1,4 @@
----
+<!-- ---
 title: My Custom Section
 icon: fa-check
 order: 5
@@ -11,4 +11,4 @@ All sections have titles, which are listed in the site's navigation menu. At the
 You may notice that this section is written in Markdown -- either Markdown or html works!
 
 
-So, if I place a section, it will automatically show?
+So, if I place a section, it will automatically show? -->
